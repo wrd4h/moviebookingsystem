@@ -57,7 +57,6 @@ $movies = mysqli_query($conn, "SELECT * FROM movies ORDER BY movie_id DESC");
     <div class="hero-content">
 
         <h1>
-            WELCOME,
             Experience Movies Like Never Before
         </h1>
 
